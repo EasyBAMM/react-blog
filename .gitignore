@@ -3,3 +3,5 @@
 /blog-backend/npm-debug.log*
 /blog-backend/yarn-debug.log*
 /blog-backend/yarn-error.log*
+
+/blog-backend/.env
