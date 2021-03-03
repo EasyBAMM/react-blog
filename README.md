@@ -53,4 +53,4 @@
 ```
 
 #### AWS 주소
-http://ec2-3-34-186-5.ap-northeast-2.compute.amazonaws.com:4000/
+http://ec2-3-34-186-5.ap-northeast-2.compute.amazonaws.com:4000/ 지금 
